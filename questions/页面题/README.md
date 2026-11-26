@@ -1,6 +1,6 @@
 模仿视频呈现的效果，做一个流利的交流网站页面，也就是说，除了特别说明，视频出现的效果都要做到
 
-效果视频：questions\页面题\效果视频.zip
+效果视频：[fe-test-page-demo.zip](https://github.com/hoh-png/FE-test/releases/latest/download/fe-test-page-demo.zip)（约 105 MB，内含上边栏 / 中间栏 / 左边栏 / 右边栏 / 滚动 / 尾部 共 6 段录屏，视频体积较大，放在 Release 附件中，不在仓库内）
 
 整体要求：
 页面滚动时，上边栏时刻保持在屏幕顶部，中间页和右边栏一起随页面滚动，而左边栏未触及尾部时固定不动，触及后一起滚动；
